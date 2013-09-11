@@ -9,6 +9,6 @@ remove: [
 ]
 depends: [
   "ocamlfind"
-  "deriving-ocsigen"
+  "deriving"
   "lwt" {>= "2.4"}
 ]
